@@ -10,5 +10,5 @@ def maximum(a,b,c):
 
 a=30
 b=46
-c=23
+c=25
 print("The largest number is:", maximum(a, b, c))
